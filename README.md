@@ -1,1 +1,1 @@
-# citizen-data-science
+# manufacturing-sales-analysis
