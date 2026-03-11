@@ -1,8 +1,8 @@
-# manufacturing-sales-analysis
+# Manufacturing Sales Analysis
 
 ## Project Overview
 
-The following project uses Tableau to analyze and visualize sales data for various across different metrics. The objective was to tie these metrics together, via an interactive dashboard, and showcase the trends the data had to offer.
+The following project uses Tableau to analyze and visualize sales data for various across different metrics. The objective was to tie these metrics together, via an interactive dashboard, and showcase the trends the data had to offer
 
 ## Key Features:
 
@@ -21,7 +21,7 @@ The following project uses Tableau to analyze and visualize sales data for vario
 
 2. **Download the File:**
 
-    + Click on the repository’s “Download” button and download the `.twbx` file (Tableau Packaged Workbook)
+    + Click on the repository’s “Download” button and download the `.TWBX` file (Tableau Packaged Workbook)
 
 3. **Open the File in Tableau:**
 
@@ -32,3 +32,6 @@ The following project uses Tableau to analyze and visualize sales data for vario
 4. **Explore the Dashboard:**
 
     + Interact with the visualizations by applying filters and watching the graphs change in realtime
+  
+## Contact
+Brian Anyikwa - [LinkedIn](https://www.linkedin.com/in/anyikwab/) - [anyikwabn@gmail.com](mailto:anyikwabn@gmail.com)
